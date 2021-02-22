@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3c08d54-5058-49be-be1f-30d8af5647e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gf0MD95MJOn88XUmiwDCbivwv0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Cluedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cluedo" />
+      <module name="ASSIGNMENT2_CLUEDO_UPDATED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="ASSIGNMENT2_CLUEDO_UPDATED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenuView" />
+      <module name="ASSIGNMENT2_CLUEDO_UPDATED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="ASSIGNMENT2_CLUEDO_UPDATED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Cluedo" />
+        <item itemvalue="Application.MenuView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3c08d54-5058-49be-be1f-30d8af5647e0" name="Default Changelist" comment="" />
+      <created>1598490288544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598490288544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1598665622607">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="190" y="191" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1598665622607" />
+    <state x="93" y="234" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1598660937398">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="93" y="234" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1504.963@0.0.1504.963" timestamp="1598660937398" />
+    <state width="710" height="254" key="GridCell.Tab.0.bottom" timestamp="1598669994725">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="710" height="254" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1598669994725" />
+    <state width="710" height="254" key="GridCell.Tab.0.center" timestamp="1598669994725">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="710" height="254" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1598669994725" />
+    <state width="710" height="254" key="GridCell.Tab.0.left" timestamp="1598669994724">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="710" height="254" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1598669994724" />
+    <state width="710" height="254" key="GridCell.Tab.0.right" timestamp="1598669994725">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="710" height="254" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1598669994725" />
+  </component>
+</project>
